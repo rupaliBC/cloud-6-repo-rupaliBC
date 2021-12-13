@@ -1,7 +1,12 @@
 # AWS Pricing
 
 ## Key-terms
--
+- Pay-as-you-go: Pay as You Go is a pricing principle that lets you rent resources on-demand. This model provides complete flexibility over how many machines you run and for how long. You can leverage on-demand resources when you cannot buy or build your own infrastructure
+- Save when you reserve : AWS provides significant discounts, ranging between 30% and 72%, on reserved EC2 instances. This option lets you reserve compute capacity for a long period of time (1 or 3 years). 
+- Pay less when using more : Amazon provides volume discounts and tiered pricing for most of its services. 
+- Pay less as AWS grows :
+
+
 
 ## Opdracht
 
